@@ -21,7 +21,7 @@ function pressIt(){
 }
 
 function submitIt(){
-  $
+  $('form').on()
 }
 $(document).ready(function(){
 
