@@ -13,7 +13,7 @@ function frameIt(){
 }
 
 function pressIt(){
-  $('keydown')
+  $('')
 }
 $(document).ready(function(){
 
