@@ -14,7 +14,7 @@ function frameIt(){
 
 function pressIt(){
   $('#typing').on('keypress', function(e){
-    if (e.listener == 71) {
+    if (e.which == 71) {
       alert("¡You press the letter G!")
     }
   })
