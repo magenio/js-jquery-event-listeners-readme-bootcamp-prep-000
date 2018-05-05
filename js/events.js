@@ -14,7 +14,9 @@ function frameIt(){
 
 function pressIt(){
   $('#typing').on('keydown', function(){
-    if (e.listener == 71)
+    if (e.listener == 71) {
+      alert()
+    }
   })
 }
 $(document).ready(function(){
