@@ -11,6 +11,10 @@ function frameIt(){
     $('img').addClass('tasty')
   })
 }
+
+function pressIt(){
+  $('keydown')
+}
 $(document).ready(function(){
 
 // call functions here
