@@ -2,7 +2,13 @@
 
 function getIt(){
   $('p').on('click', function(){
-    aletr("Hey!")
+    alert("hey!")
+  })
+}
+
+function frameIt(){
+  $('img').on('load', function(){
+    
   })
 }
 $(document).ready(function(){
