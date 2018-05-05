@@ -15,9 +15,13 @@ function frameIt(){
 function pressIt(){
   $('#typing').on('keydown', function(){
     if (e.listener == 71) {
-      alert()
+      alert("¡You press the letter G!")
     }
   })
+}
+
+function submitIt(){
+  $
 }
 $(document).ready(function(){
 
